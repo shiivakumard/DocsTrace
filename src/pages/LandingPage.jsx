@@ -79,7 +79,7 @@ const LandingPage = () => {
             Everything you and your business need to work efficiently, all in one place
           </Typography>
           <Typography variant="body1" paragraph>
-            Collaborate seamlessly and deliver work faster from anywhere with Dropbox. Securely store your content, edit PDFs, share videos, sign documents and track file engagement—without leaving Dropbox.
+            Collaborate seamlessly and deliver work faster from anywhere with DocTrace. Securely store your content, edit PDFs, share videos, sign documents and track file engagement—without leaving DocTrace.
           </Typography>
           <Button variant="contained" color="primary" sx={{ mr: 2 }}>
             Try it for free
